@@ -48,7 +48,7 @@
     - 논문에서는 3 scales, 3 ratios 총 9개 생성
     - translation invariant를 가짐 : 객체가 이미지 내에서 이동하더라도 같은 객체로 인식 : (CNN의 특성때문인가?)
 
-<img width="552" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12 50 08" src="https://github.com/user-attachments/assets/9ff79090-307c-4ef7-a164-451b6e360472">
+<img width="600" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-07-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12 50 08" src="https://github.com/user-attachments/assets/9ff79090-307c-4ef7-a164-451b6e360472">
 
 
 (a). image를 변형하여 여러개의 scale에서 각 변형된 이미지마다 feature map을 구함 → 시간 많이걸림
