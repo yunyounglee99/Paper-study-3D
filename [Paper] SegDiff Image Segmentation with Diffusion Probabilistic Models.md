@@ -42,10 +42,10 @@
 - 기본적인 DDPM의 수학적인 논리를 설명함
 - DDPM
     
-<img width="270" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-07_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7 43 22" src="https://github.com/user-attachments/assets/e4bd5fa8-276e-4163-a7b6-cf09ccc38e8b">
+<img width="400" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-07_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7 43 22" src="https://github.com/user-attachments/assets/e4bd5fa8-276e-4163-a7b6-cf09ccc38e8b">
 
     
-<img width="267" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-07_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7 44 05" src="https://github.com/user-attachments/assets/67408e0f-3dd6-4f7f-bc4b-382dc9025465">
+<img width="400" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-07_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7 44 05" src="https://github.com/user-attachments/assets/67408e0f-3dd6-4f7f-bc4b-382dc9025465">
 
     
 
